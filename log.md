@@ -27,7 +27,7 @@
 **Link(s) to work** 
 [Tweet link](https://x.com/beccari_mattia/status/1721603028107591983?s=20)
 
-3. ### Day 4: November 7, Tuesday
+### Day 4: November 7, Tuesday
 
 **Today's Progress**: Learned about the optional chaining operator in JavaScript (?.), preventing runtime errors.
 
