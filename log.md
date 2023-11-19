@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: November 4, 2016 (Example 1)
+### Day 1: November 4, 2023 (Example 1)
 
 **Today's Progress**: Better understood the difference between JQuery's $(document).ready() and JS window.onload.
 
