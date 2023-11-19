@@ -137,12 +137,12 @@
 
 ### Day 16: November 19, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I cleaned up the frontend a bit, it now looks functional enough to be used.   
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I will polish it more along the way, but it is already a lot better than yesterday
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/b10454ba079beab2d5e556706c88a9e1bfd2fe70)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 ### Day 17: November 20, Monday
