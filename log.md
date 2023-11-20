@@ -147,13 +147,17 @@
 
 ### Day 17: November 20, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finally integrated geocoder into leaflet the way I wanted:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+🔸Initialised the geocoding provider directly 
+
+🔸Used its geocode() method to populate the variable used to update the map and marker.
+
+**Thoughts** This entire Leflet thing was a very good exercise to learn more about geolocal and how to approach challenging documentation
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Twitter](https://x.com/beccari_mattia/status/1726655378803630506?s=20)
+
 
 ### Day 18: November 21, Tuesday
 
