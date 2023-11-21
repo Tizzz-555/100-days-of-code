@@ -142,8 +142,8 @@
 **Thoughts** I will polish it more along the way, but it is already a lot better than yesterday
 
 **Link(s) to work**
-1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/b10454ba079beab2d5e556706c88a9e1bfd2fe70)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/b10454ba079beab2d5e556706c88a9e1bfd2fe70)
+
 
 ### Day 17: November 20, Monday
 
@@ -161,13 +161,13 @@
 
 ### Day 18: November 21, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added a bit of logic to my tweepy app to limit the file upload to only 4 pictures 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It deactivates the button after you reach 4 and throws an alert if you try to upload more by selecting multiple files
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/1b1c83c9ae4f6e0a1107c51c6c626a6e26f09838#diff-002e865d16e66912b7c58027ccf63048a101ddfee49617a3c9ece375fe7e1902)
+2. [Tweet link](https://x.com/beccari_mattia/status/1727062114156822801?s=20)
 
 ### Day 19: November 22, Wednesday
 
