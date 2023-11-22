@@ -171,13 +171,13 @@
 
 ### Day 19: November 22, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I can now tweet with attachment from my client 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It was challenging understanding how to handle a file-like object with the Twitter API
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/82376db9cf6485c32040f9d4d6c63b42756af1a6)
+2. [Tweet link](https://twitter.com/beccari_mattia/status/1727420773889957961)
 
 ### Day 20: November 23, Thursday
 
