@@ -181,13 +181,13 @@
 
 ### Day 20: November 23, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added multiple files upload functionality.  request.files.getlist('media') in Flask allowed me to properly retrieve the files without needing to construct different keys for each of them
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Coded at 9 pm after running my Thursday's after work 10k... That's dedication, so bravo me. Tomorrow will add a few finishing touches
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/b44ee77351a31d4cbadc76f910148509725a4889)
+2. [Tweet link](https://x.com/beccari_mattia/status/1727789240241537387?s=20)
 
 ### Day 21: November 24, Friday
 
