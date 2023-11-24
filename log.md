@@ -191,13 +191,13 @@
 
 ### Day 21: November 24, Friday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Cleaned up the ui, love me some CSS madness. 😅
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Even the tiniest improvements always take longer than I imagined, but long and steady wins the race 🏃‍♂️
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/31d12bc8d2590cd565a4773d9c120962283901c5)
+2. [Tweet link](https://x.com/beccari_mattia/status/1728153395792425142?s=20)
 
 ### Day 22: November 25, Saturday
 
