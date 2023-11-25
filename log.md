@@ -201,13 +201,13 @@
 
 ### Day 22: November 25, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Wrote a lot more CSS, this thing is slowly starting to look nice!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: CSS can be funnier than I often thought, it's something I never really dug into that much, but this "cloning" thing is pretty cool
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/0236daaaa593fb3b4784421f0ee5da03a3203594)
+2. [Tweet link](https://x.com/beccari_mattia/status/1728469679784534117?s=20)
 
 ### Day 23: November 26, Sunday
 
