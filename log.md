@@ -211,13 +211,13 @@
 
 ### Day 23: November 26, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added the icons and cleaned up the textarea.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I enjoyed figuring out the best layout to use #CSS flex in the most effective way. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/65bafa7a90423c860db65f4c3cf55f8fd03e6c37)
+2. [Tweet link](https://x.com/beccari_mattia/status/1728850375447572790?s=20)
 
 ### Day 24: November 27, Monday
 
