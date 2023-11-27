@@ -221,13 +221,13 @@
 
 ### Day 24: November 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added the last elements of the footer
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Next, will add some JS to get that progress bar going while we enter the text input
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/713954e2b82c6014ec0987e7370bba2f85cf3843)
+2. [Tweet link](https://x.com/beccari_mattia/status/1729240649386655971?s=20)
 
 ### Day 25: November 28, Tuesday
 
