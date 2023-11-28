@@ -231,13 +231,13 @@
 
 ### Day 25: November 28, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked another hour and a half but made little to no progress... 🥹
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Days like this happen, tomorrow will be better! 🦾
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/a012c63af9cf400c2bd62a5156cc0f12be50a1e2)
+2. [Tweet link](https://x.com/beccari_mattia/status/1729625173580501048?s=20)
 
 ### Day 26: November 29, Wednesday
 
