@@ -251,13 +251,13 @@
 3. 
 ### Day 27: November 30, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added the logic that handles the change of state in the progress bar.
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Once again, I think something should be easy and painless enough, and it ends up taking most of my evening 😂
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/5ef51681c2c6ecaac8b8b6208646b5c8cd6f6094)
+2. [Tweet link](https://twitter.com/beccari_mattia/status/1730352021436264782)
 
 ### Day 28: December 1, Friday
 
