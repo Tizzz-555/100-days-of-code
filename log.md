@@ -261,13 +261,13 @@
 
 ### Day 28: December 1, Friday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Changed the default behaviour of the textarea.
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I am sleepy already, but maybe I can chill one hour and play some Zelda before going to bed lol.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/a02db268ff57c231a8b862a8f38dfb3d4f6f0e51)
+2. [Tweet link](https://x.com/beccari_mattia/status/1730709792900137067?s=20)
 
 ### Day 29: December 2, Saturday
 
