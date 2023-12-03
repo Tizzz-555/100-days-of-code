@@ -281,13 +281,13 @@
 
 ### Day 30: December 3, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Redesigned the image upload layout (it's not perfect, but it looks good enough for me), the delete button on each picture and the disabling of the upload button.
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I had fun with this project, but now it's time to move on to something else.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/no-feed-twitter/commit/57f445eae0f75d3d062df6b7530eb98cfe69ca0b)
+2. [Twitter link](https://x.com/beccari_mattia/status/1731421955696546019?s=20)
 
 ### Day 31: December 4, Monday
 
