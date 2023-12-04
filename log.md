@@ -291,13 +291,14 @@
 
 ### Day 31: December 4, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Went back to an unfinished Vue class taught by the great 
+@maximilian on Udemy.
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Took some notes on @obsdm that helped me clarify some of the concepts told.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/89475d2305549f6c451d4f53c4be951d012c7f35)
+2. [Twitter link](https://x.com/beccari_mattia/status/1731774700576207159?s=20)
 
 ### Day 32: December 5, Tuesday
 
