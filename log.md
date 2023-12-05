@@ -302,13 +302,13 @@
 
 ### Day 32: December 5, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Learned more about provide / inject and what are the use cases and pros and cons compared to the standard props
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Will try to share my notes on Twitter whenever I get to a new topic
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/27041e12e6c19918635caf0d9d38e0bb50973360)
+2. [Twitter link](https://x.com/beccari_mattia/status/1732134059168674085?s=20)
 
 ### Day 33: December 6, Wednesday
 
