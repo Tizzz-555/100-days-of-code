@@ -312,11 +312,11 @@
 
 ### Day 33: December 6, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:  Wrapped up the section on component communication.
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**:  Learned about components local registration use cases and best practices.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/8fbb0856d84b3f841f1c0a363b95dfed0e57e3e2)
+2. [Twitter link](https://x.com/beccari_mattia/status/1732515862840586586?s=20)
 
