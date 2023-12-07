@@ -320,3 +320,13 @@
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/8fbb0856d84b3f841f1c0a363b95dfed0e57e3e2)
 2. [Twitter link](https://x.com/beccari_mattia/status/1732515862840586586?s=20)
 
+### Day 34: December 7, Thursday
+
+**Today's Progress**: Learned about slots and how they allow dynamic content injection between components
+
+**Thoughts**: Vue can leave me scratching my head sometimes, but it' s always rewarding experimenting with it and understanding more of its intricacies
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/824e9d7d3e137d7b1e8a274a1b9f7f4eb6652a47)
+2. [Twitter link](https://x.com/beccari_mattia/status/1732862322564071712?s=20)
+
