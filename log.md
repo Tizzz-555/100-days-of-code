@@ -330,3 +330,12 @@
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/824e9d7d3e137d7b1e8a274a1b9f7f4eb6652a47)
 2. [Twitter link](https://x.com/beccari_mattia/status/1732862322564071712?s=20)
 
+### Day 35: December 8, Friday
+
+**Today's Progress**: Learned how to set default, fallback content into slots, or alternatively how to conditionally render the element only if there is content passing through.
+
+**Thoughts**: Landed a freelance gig! 🎉 Course on pause again... 🥲😅
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/11034bafad75603da2804d1c8d0b6a322da118e2)
+2. [Twitter link](https://x.com/beccari_mattia/status/1733243827190706278?s=20)
