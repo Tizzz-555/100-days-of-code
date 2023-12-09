@@ -339,3 +339,12 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/11034bafad75603da2804d1c8d0b6a322da118e2)
 2. [Twitter link](https://x.com/beccari_mattia/status/1733243827190706278?s=20)
+
+### Day 36: December 9, Saturday
+
+**Today's Progress**: Set up hosting and familiarised with the Wordpress ecosystem, picked up and selected a theme and the Elementor page builder
+
+**Thoughts**: I wish I had time to push code here as well, but this project will entirely be no-code
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1733535220257915084?s=20)
