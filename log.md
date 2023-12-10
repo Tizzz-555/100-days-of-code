@@ -348,3 +348,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1733535220257915084?s=20)
+
+### Day 37: December 10, Sunday
+
+**Today's Progress**: Started playing around with plugins, this is a hotel website so I am going to use VikWP to get it to communicate with booking sites.
+
+**Thoughts**: I am waiting for content from the client to update, meawhile I' ll do backend stuff.
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1733936710738685974?s=20)
