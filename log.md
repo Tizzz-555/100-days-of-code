@@ -357,3 +357,13 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1733936710738685974?s=20)
+
+### Day 38: December 11, Monday
+
+**Today's Progress**: Done most of the frontend changes on the website I can actually do so far. Now it's a matter of getting the content from the client, which might take a while.
+
+**Thoughts**: Tomorrow might go back to my Vue course while I wait for pictures and data... 💾
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1734300374951936507?s=20)
+
