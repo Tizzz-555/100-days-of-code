@@ -367,3 +367,12 @@
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1734300374951936507?s=20)
 
+### Day 39: December 12, Tuesday
+
+**Today's Progress**: Went back to Vue. Today I learned about scoped slots.
+
+**Thoughts**: They are basically a combination between slots and props, where along with html elements and Vue templates we are also able to pass data just like in props.
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/e02de8bc84e32a75964019d9436982cf3af502b1)
+2. [Twitter link](https://x.com/beccari_mattia/status/1734629906246512884?s=20)
