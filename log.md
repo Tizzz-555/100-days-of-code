@@ -376,3 +376,13 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/e02de8bc84e32a75964019d9436982cf3af502b1)
 2. [Twitter link](https://x.com/beccari_mattia/status/1734629906246512884?s=20)
+
+
+### Day 40: December 13, Wednesday
+
+**Today's Progress**:  Got a bit of new infos from the client and updated the rooms section of the website (it' s for a hotel).
+
+**Thoughts**: Whenever I get updates I will get back to this, gotta do a bit of zig-zag right now. 😅
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1735006908950397009?s=20)
