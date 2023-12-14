@@ -386,3 +386,13 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1735006908950397009?s=20)
+
+### Day 41: December 14, Thursday
+
+**Today's Progress**: Learned about dynamic components
+
+**Thoughts**: They allow dynamic switching of different components within the same mounting point
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/201a1a61837ff4a83fe81da73220c687fa6d6e2d)
+2. [Twitter link](https://x.com/beccari_mattia/status/1735417611092132165?s=20)
