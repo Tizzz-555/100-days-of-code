@@ -396,3 +396,13 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/201a1a61837ff4a83fe81da73220c687fa6d6e2d)
 2. [Twitter link](https://x.com/beccari_mattia/status/1735417611092132165?s=20)
+
+### Day 42: December 15, Friday
+
+**Today's Progress**: Learned about Vue's teleport feature, ideal for modals, alerts, and overlays.
+
+**Thoughts**: Teleport allows us to render components in different parts of the DOM for better semantics and accessibility.
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/55648d3c25cae8be3ca669f52feac762c3e871c2)
+2. [Twitter link](https://x.com/beccari_mattia/status/1735723804981387593?s=20)
