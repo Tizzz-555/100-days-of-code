@@ -406,3 +406,13 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/55648d3c25cae8be3ca669f52feac762c3e871c2)
 2. [Twitter link](https://x.com/beccari_mattia/status/1735723804981387593?s=20)
+
+### Day 43: December 16, Saturday
+
+**Today's Progress**: Learned about Multiple Node Roots and how their usage wasn't allowed in Vue 2. In Vue 3 they are, similarly to how Fragments in React work but directly in the template.
+
+**Thoughts**: This was the last topic on Components, next is a small project.
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/1f6d6d2e2e2156d74460bc94170c9bfa250d08cf)
+2. [Twitter link](https://x.com/beccari_mattia/status/1736113237144519025?s=20)
