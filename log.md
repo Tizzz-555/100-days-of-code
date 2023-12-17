@@ -416,3 +416,13 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/1f6d6d2e2e2156d74460bc94170c9bfa250d08cf)
 2. [Twitter link](https://x.com/beccari_mattia/status/1736113237144519025?s=20)
+
+### Day 44: December 17, Sunday
+
+**Today's Progress**: Started the exercise in this module. Always cool to integrate the things you first learn "on paper" into practice.
+
+**Thoughts**: Getting a bit of tutorial hell syndrome, wondering if I should just jump into more hands on stuff, but I want to finish this!
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/fdfca67234f9065eb624e06dd2b8d40366c224ef)
+2. [Twitter link](https://x.com/beccari_mattia/status/1736446693799825832?s=20)
