@@ -426,3 +426,14 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/fdfca67234f9065eb624e06dd2b8d40366c224ef)
 2. [Twitter link](https://x.com/beccari_mattia/status/1736446693799825832?s=20)
+
+### Day 45: December 18, Monday
+
+**Today's Progress**: Refactored some components and added the tabs on top and styling to the buttons.
+
+**Thoughts**: Ngl today at work was one of those days were I get stuck into something and imposter syndrome kicks in... Reading documentation is hard... 😑
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/2a4872a9e51c15b5a28b086380b7bd0b0087e3d0)
+2. [Twitter link](https://x.com/beccari_mattia/status/1736822140970688540?s=20)
+
