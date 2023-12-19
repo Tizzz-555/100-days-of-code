@@ -437,3 +437,11 @@
 1. [Commit link](https://github.com/Tizzz-555/vue-udemy-class/commit/2a4872a9e51c15b5a28b086380b7bd0b0087e3d0)
 2. [Twitter link](https://x.com/beccari_mattia/status/1736822140970688540?s=20)
 
+### Day 46: December 19, Tuesday
+
+**Today's Progress**: Today I got a bit of a rough day at work, and could not really do any coding after that... 
+
+**Thoughts**: I am thinking of going back to the very basics and start the front-end dev pathway on Mozilla hoping to strengthen my fundamentals. 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1737217462649716899?s=20)
