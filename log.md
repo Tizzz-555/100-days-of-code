@@ -445,3 +445,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1737217462649716899?s=20)
+
+### Day 47: December 20, Wednesday
+
+**Today's Progress**: I learned about union types and how they allow to assign different types to a variable in different scenarios
+
+**Thoughts**: I started reading the web dev path on Mozilla, from the very start! I will try to simply share one thing a day I learned at work
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1737566292217917813?s=20)
