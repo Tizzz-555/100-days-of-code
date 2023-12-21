@@ -454,3 +454,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1737566292217917813?s=20)
+
+### Day 48: December 21, Thursday
+
+**Today's Progress**: Learned about Vue refs and how they allow for declaration of reactive variables which update automatically in the DOM when modified
+
+**Thoughts**: To dig deeper in the topic I recommend this article: https://dmitripavlutin.com/ref-in-vue/ 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1737880017424576629?s=20)
