@@ -463,3 +463,57 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1737880017424576629?s=20)
+
+### Day 49: December 22, Friday
+
+**Today's Progress**: Refreshed the concept of async functions after the deleteElement function stood out to me among a group of other async functions
+
+**Thoughts**: Interesting to see the use of the callback function to handle the API call asynchronously 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1738238829163593992?s=20)
+
+### Day 50: December 23, Saturday
+
+**Today's Progress**: Var, let, const. A true classic 
+
+**Thoughts**: I am in Paris for the weekend, not a lot of time to code so I put this together instead, tomorrow I will try to post the second part of this note 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1738586000501190744?s=20)
+
+### Day 51: December 24, Sunday
+
+**Today's Progress**: One case in which redeclaration within scope with var could be useful: when a var only exist conditionally.
+
+**Thoughts**: While it is easier to just declare without initialization at the beginning of the function, it helped me understand the concept.
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1738976011239203071?s=20)
+
+### Day 52: December 25, Monday
+
+**Today's Progress**: Today I played around a bit with #freecodecamp responsive design certification. 
+
+**Thoughts**: It was fun refreshing some important html and css concepts and cats are ALWAYS welcomed in my learning 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1739377792318394453?s=20)
+
+### Day 52: December 25, Monday
+
+**Today's Progress**: Today I played around a bit with #freecodecamp responsive design certification. 
+
+**Thoughts**: It was fun refreshing some important html and css concepts and cats are ALWAYS welcomed in my learning 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1739377792318394453?s=20)
+
+### Day 53: December 26, Tuesday
+
+**Today's Progress**: Completed FCC second certification project, a tribute page which I chose to dedicate to one of my favorite game directors Fumito Ueda. 
+
+**Thoughts**: I like these projects, they are perfect for these busy days with very limited time for me to code. 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1739764414528491903?s=20)
