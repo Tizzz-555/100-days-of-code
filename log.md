@@ -517,3 +517,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1739764414528491903?s=20)
+
+### Day 54: December 27, Wednesday
+
+**Today's Progress**: More FCC, more CSS, more cats.
+
+**Thoughts**: Worked on this on a train to Torino, which makes it the second time I code on a train after this summer in Kyoto. I felt like Elliot Alderson. 🧑‍💻
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1740062338495942808?s=20)
