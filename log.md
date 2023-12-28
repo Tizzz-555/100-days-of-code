@@ -526,3 +526,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1740062338495942808?s=20)
+
+### Day 55: December 28, Thursday
+
+**Today's Progress**: Made a piano this time and started the new project on FCC on writing technical documentation.
+
+**Thoughts**: Tomorrow I will be out again most of the day but I'll try to squeeze in a little time for this
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1740427939584339974?s=20)
