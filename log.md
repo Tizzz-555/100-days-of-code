@@ -562,3 +562,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1741572202833584322?s=20)
+
+### Day 59: January 1, Monday
+
+🔸 Completed FCC project on technical documentation ✍️
+
+🔸 Tomorrow back to work! I still have a pretty big cold but it is time to bring back my old routines after an amazing week of break with my family
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1741930051287822641?s=20)
