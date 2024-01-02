@@ -571,3 +571,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1741930051287822641?s=20)
+
+### Day 60: January 2, Tuesday
+
+🔸 What a cool little project this was! Taught me about using variables in CSS which is something I never really used before
+
+🔸 Going back to work with a cold was a bit though, I got the option of doing wfh, so tomorrow I might do so
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1742258568256995564?s=20)
