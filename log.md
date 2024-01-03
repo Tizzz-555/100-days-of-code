@@ -580,3 +580,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1742258568256995564?s=20)
+
+### Day 61: January 3, Wednesday
+
+🔸Completed next project/tutorial in FCC
+
+🔸 This one was about using grid and some of its properties such as grid-template-columns where we can define the size of each column
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1742643587722911992?s=20)
