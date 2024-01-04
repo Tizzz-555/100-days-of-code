@@ -589,3 +589,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1742643587722911992?s=20)
+
+### Day 62: January 4, Thursday
+
+🔸 At work I finished a CRUD set of pages I was working on for a while and felt good about it 🥳
+
+🔸 After work I started the landing page project on FCC and I did not know where to go with it.  Writing code from a blank page is still very hard for me 😑
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1743013027669028869?s=20)
