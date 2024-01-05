@@ -598,3 +598,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1743013027669028869?s=20)
+
+### Day 63: January 5, Friday
+
+🔸 Followed along the next tutorial on FCC on how to create CSS animations. I am not sure if I will use it irl, but cool to know more about it 🎡
+
+🔸 I will go back to the personal project during the weekend with more time to dedicate
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1743363832846635475?s=20)
