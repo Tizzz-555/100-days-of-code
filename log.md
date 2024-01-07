@@ -607,3 +607,21 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1743363832846635475?s=20)
+
+### Day 64: January 6, Saturday
+
+🔸 Laid down the structure of the landing page, now it is clearer in my mind
+
+🔸 Still a bunch of CSS to write, something I am not very well versed into, but I am sure it will only get better with practice 🧑‍🎨
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1743669778122670427?s=20)
+
+### Day 65: January 7, Sunday
+
+🔸 Completed the product landing page, one more project to go 🧑‍💻
+
+🔸 Design is not my cup of tea, but overall I am happy with how it turned out, it is decently responsive as well
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1744102315118727481?s=20)
