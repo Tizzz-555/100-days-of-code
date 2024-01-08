@@ -625,3 +625,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1744102315118727481?s=20)
+
+### Day 66: January 8, Monday
+
+🔸About half-way through the last FCC tutorial
+
+🔸 Probably many of you already know this project, but if you don't try to guess who is this little fellow... 👀
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1744456048612933817?s=20)
