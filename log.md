@@ -634,3 +634,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1744456048612933817?s=20)
+
+### Day 67: January 9, Tuesday
+
+🔸 Last tutorial done ✅
+
+🔸 Learned a lot of new CSS properties in this course, most of the transform properties and animations were new to me, it was fun seeing these in action!
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1744814356896920032?s=20)
