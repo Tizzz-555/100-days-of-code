@@ -643,3 +643,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1744814356896920032?s=20)
+
+### Day 68: January 10, Wednesday
+
+🔸 Started the final project on FCC, building a personal portfolio
+
+🔸 I feel like I am getting into flow more frequently at work, getting quicker at solving problems 💡
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1745175933986672719?s=20)
