@@ -652,3 +652,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1745175933986672719?s=20)
+
+### Day 69: January 11, Thursday
+
+🔸 Got a bit more work done, header and hero
+
+🔸 I might look for a logo or something to add to the left, but for now just my initial will do 😅
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1745566989001592955?s=20)
