@@ -661,3 +661,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1745566989001592955?s=20)
+
+### Day 70: January 12, Friday
+
+🔸 I have resized most elements on the page and changed the M signpost logo to an email button
+
+🔸 I also made the header fixed and went back and forth between making it blue like the main or keeping it brown. I'll stick to brown
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1745917436153508239?s=20)
