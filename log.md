@@ -670,3 +670,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1745917436153508239?s=20)
+
+### Day 70: January 13, Saturday
+
+🔸 Changed the header position to sticky
+
+🔸 Started working on the projects section
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1746225404740845907?s=20)
