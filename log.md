@@ -688,3 +688,12 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1746603787635019781?s=20)
+
+### Day 73: January 15, Monday
+
+🔸 Finished the last project on FCC responsive web dev certificate 🥳
+
+🔸 I  learned a lot about CSS, which I pretty much skipped in my learning so far, always relying on Bootstrap and other frameworks when building 👨‍🎨
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1747004032340603294?s=20)
