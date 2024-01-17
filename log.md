@@ -697,3 +697,24 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1747004032340603294?s=20)
+
+### Day 74: January 16, Tuesday
+
+🔸 Claimed the FCC certificate
+
+🔸 Read the first section of MDN intro to CSS. I learned about HTML user agent styles that apply default styling to the markup, something I never really thought about before
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1747364365160927447?s=20)
+
+### Day 75: January 17, Wednesday
+
+🔸 Read the next section of CSS first steps on MDN and played around with the code examples
+
+🔸 One new concept learned at work: the non null assertion operator in TypeScript ❗️
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/433018274580657a8975781221184aaa833cafa5)
+2. [Twitter link](https://x.com/beccari_mattia/status/1747709612717982003?s=20)
+
+
