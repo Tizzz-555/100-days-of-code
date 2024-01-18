@@ -717,4 +717,12 @@
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/433018274580657a8975781221184aaa833cafa5)
 2. [Twitter link](https://x.com/beccari_mattia/status/1747709612717982003?s=20)
 
+### Day 76: January 18, Thursday
+
+🔸 Read "how css is structured" on MDN
+
+🔸 Made this flowchart of a section of the website I was debugging at work
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1748095609679040789?s=20)
 
