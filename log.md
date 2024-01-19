@@ -726,3 +726,12 @@
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1748095609679040789?s=20)
 
+### Day 77: January 19, Friday
+
+🔸 Read "how css works" on MDN
+
+🔸 Completed the first little assignment, the task was to reproduce a very basic biographic page
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/8f85cd1985fede2aeed097103c0606774e95425a)
+2. [Twitter link](https://x.com/beccari_mattia/status/1748436233812861439?s=20)
