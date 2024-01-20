@@ -735,3 +735,12 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/8f85cd1985fede2aeed097103c0606774e95425a)
 2. [Twitter link](https://x.com/beccari_mattia/status/1748436233812861439?s=20)
+
+### Day 78: January 20, Saturday
+
+🔸 Read 4 more CSS sections on MDN
+
+🔸 Learned about presence and value selectors and took some notes about it
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1748763009017672089?s=20)
