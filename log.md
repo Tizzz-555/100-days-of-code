@@ -744,3 +744,13 @@
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1748763009017672089?s=20)
+
+### Day 79: January 21, Sunday
+
+🔸 Finished selectors and combinators section on MDN
+
+🔸 Trickiest bit for me in the exercise part was striping every other row in a table. Cool to learn you can pass (even) or (odd) to the nth-child selector
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/7728d0c34f2ab9485e0bad4e5ad0e917b0e79b3b)
+2. [Twitter link](https://x.com/beccari_mattia/status/1749143589681054181?s=20)
