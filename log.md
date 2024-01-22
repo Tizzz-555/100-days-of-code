@@ -754,3 +754,14 @@
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/7728d0c34f2ab9485e0bad4e5ad0e917b0e79b3b)
 2. [Twitter link](https://x.com/beccari_mattia/status/1749143589681054181?s=20)
+
+### Day 80: January 22, Monday
+
+🔸 Read "cascade, specificity and inheritance" on MDN.
+Learned about the 5 universal property values
+
+🔸 Read two chapter of "Eloquent Javascript". The online version with the code sandbox snippets is great
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/ddc8ec3bf3bdace847f787915893f9fdefd6a2ca)
+2. [Twitter link](https://x.com/beccari_mattia/status/1749542986822672630?s=20)
