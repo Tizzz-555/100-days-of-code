@@ -765,3 +765,13 @@ Learned about the 5 universal property values
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/ddc8ec3bf3bdace847f787915893f9fdefd6a2ca)
 2. [Twitter link](https://x.com/beccari_mattia/status/1749542986822672630?s=20)
+
+### Day 81: January 23, Tuesday
+
+🔸 Tested my understanding of cascade with two assessments on MDN
+
+🔸 Solved a couple of exercises from Eloquent JS. This FizzBuzz one was fun, I added the more elegant solution in pseudocode after solving it and googling
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/8450829a30a8aacae36464bc4c0341df99d35fd1)
+2. [Twitter link](https://x.com/beccari_mattia/status/1749910860972052775?s=20)
