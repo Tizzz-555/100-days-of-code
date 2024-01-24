@@ -775,3 +775,13 @@ Learned about the 5 universal property values
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/8450829a30a8aacae36464bc4c0341df99d35fd1)
 2. [Twitter link](https://x.com/beccari_mattia/status/1749910860972052775?s=20)
+
+### Day 82: January 24, Wednesday
+
+🔸 Read "the box model" on MDN. Learned about the preferred way of setting box-sizing: border-box (inherit from html), I used to simply add it to the * selector
+
+🔸 Solved another exercise on Eloquent JS. How to print a chessboard
+
+**Link(s) to work**
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/4a3525681ddd9c2f38d88d7fb402538366f04d9e)
+2. [Twitter link](https://x.com/beccari_mattia/status/1750238981273391347?s=20)
