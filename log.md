@@ -785,3 +785,14 @@ Learned about the 5 universal property values
 **Link(s) to work**
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/4a3525681ddd9c2f38d88d7fb402538366f04d9e)
 2. [Twitter link](https://x.com/beccari_mattia/status/1750238981273391347?s=20)
+
+### Day 83: January 25, Thursday
+
+🔸 Read "backgrounds and borders" on MDN
+
+🔸 Had my first ever whiteboard interview today. One of the algos was to find the second highest number in an array. It was the first round out of two and I am happy to say I passed it! 🥳🎉
+
+**Link(s) to work**
+
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/e4917b192a800ff918a8c32871e02c525bdd30dc)
+2. [Twitter link](https://x.com/beccari_mattia/status/1750624057060479412?s=20)
