@@ -796,3 +796,14 @@ Learned about the 5 universal property values
 
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/e4917b192a800ff918a8c32871e02c525bdd30dc)
 2. [Twitter link](https://x.com/beccari_mattia/status/1750624057060479412?s=20)
+
+### Day 84: January 26, Friday
+
+🔸 Solved the two CSS exercises on MDN for background images. The second one took me longer than I expected!
+
+🔸 Read chapter 3 of Eloquent JS. How cool is this recursive function? 🔁
+
+**Link(s) to work**
+
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/b1ed3549015805ee23b151e5fc75ccb45d0f1620)
+2. [Twitter link](https://x.com/beccari_mattia/status/1750960909692895398?s=20)
