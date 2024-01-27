@@ -807,3 +807,14 @@ Learned about the 5 universal property values
 
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/b1ed3549015805ee23b151e5fc75ccb45d0f1620)
 2. [Twitter link](https://x.com/beccari_mattia/status/1750960909692895398?s=20)
+
+### Day 85: January 27, Saturday
+
+🔸 Read and completed exercises on "handling different text directions" on MDN
+
+🔸 Solved the last two exercises of chapter 3 Eloquent JS. While easy I liked this one on recursion
+
+**Link(s) to work**
+
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/c78d1f5bd3d4f0d4289b7a40720e5def9f5976cf)
+2. [Twitter link](https://x.com/beccari_mattia/status/1751299794012709080?s=20)
