@@ -818,3 +818,12 @@ Learned about the 5 universal property values
 
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/c78d1f5bd3d4f0d4289b7a40720e5def9f5976cf)
 2. [Twitter link](https://x.com/beccari_mattia/status/1751299794012709080?s=20)
+
+### Day 86: January 28, Sunday
+
+🔸 Finished two more chapters on MDN. "Overflowing content" and "CSS values and units"
+
+🔸 Solved a problem on Leetcode. I'll try to start doing these consistently, I feel like that time has come 😅
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1751680060011024665?s=20)
