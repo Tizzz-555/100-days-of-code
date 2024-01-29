@@ -827,3 +827,12 @@ Learned about the 5 universal property values
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1751680060011024665?s=20)
+
+### Day 87: January 29, Monday
+
+🔸 Read two more chapters on MDN, solved a problem on LeetCode
+
+🔸 Read the fourth chapter of Eloquent JS and solved this exercise which asked to recreate the sum of a range from scratch
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1752060012837691828?s=20)
