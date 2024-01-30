@@ -836,3 +836,14 @@ Learned about the 5 universal property values
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1752060012837691828?s=20)
+
+### Day 88: January 30, Tuesday
+
+🔸 Read "Styling tables" on MDN
+
+🔸 Tried to solve another problem on Leetcode but got stuck. Solved this other problem from EloquentJS (how to reverse an array without making a copy of it)
+
+**Link(s) to work**
+
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/e4fb814c6ee8191e9135c8e727c7580b41efe9c5)
+2. [Twitter link](https://x.com/beccari_mattia/status/1752433580611948595?s=20)
