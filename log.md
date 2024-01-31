@@ -847,3 +847,13 @@ Learned about the 5 universal property values
 
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/e4fb814c6ee8191e9135c8e727c7580b41efe9c5)
 2. [Twitter link](https://x.com/beccari_mattia/status/1752433580611948595?s=20)
+
+### Day 89: January 31, Wednesday
+
+🔸 Had 2 more interviews today. Have an assignment to turn in next week
+
+🔸 Solved yesterday's LC problem. I thought it was quite harder that the previous 2 I had done 🤔.  
+Also Python because it just looks so much better, sorry JS
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1752793380940091450?s=20)
