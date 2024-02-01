@@ -857,3 +857,14 @@ Also Python because it just looks so much better, sorry JS
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1752793380940091450?s=20)
+
+### Day 90: February 1, Thursday
+
+🔸 Finished styling tables on MDN
+
+🔸 Solved these problems on EloquentJS. I hadn't touched linked lists for a long time and was definitely rusty on them, this was a good refresher
+
+**Link(s) to work**
+
+1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/39a4a35530513b1f70596312a58009131c3a8f95)
+2. [Twitter link](https://x.com/beccari_mattia/status/1753165554465038565?s=20)
