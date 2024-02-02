@@ -868,3 +868,12 @@ Also Python because it just looks so much better, sorry JS
 
 1. [Commit link](https://github.com/Tizzz-555/mdn-tutorials/commit/39a4a35530513b1f70596312a58009131c3a8f95)
 2. [Twitter link](https://x.com/beccari_mattia/status/1753165554465038565?s=20)
+
+### Day 91: February 2, Friday
+
+🔸 Read through "debugging in CSS" on MDN
+
+🔸 Got stuck on EloquentJS last exercise of the chapter. It's a though one, hopefully tomorrow with a fresh brain I'll be able to tackle it 🤓
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1753501443636551693?s=20)
