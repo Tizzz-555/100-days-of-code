@@ -886,3 +886,12 @@ Also Python because it just looks so much better, sorry JS
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1753887223118754025?s=20)
+
+### Day 93: February 4, Sunday
+
+🔸 Banged my head against yesterday's exercise. It felt good to finally tackle it, but now I need a brain massage... 🧠
+
+🔸 Solved another exercise on LC, comparably easier than this one but still challenging
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1754239986252050916?s=20)
