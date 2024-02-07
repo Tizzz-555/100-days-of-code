@@ -904,3 +904,21 @@ Also Python because it just looks so much better, sorry JS
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1754609201089761758?s=20)
+
+### Day 95: February 6, Tuesday
+
+🔸 Solved a couple more problems on LC in preparation to tonight's interview
+
+🔸 Had the interview! I was a bit nervous but overall I am pretty happy on how it turned out... Now just gotta wait and see 🤞
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1754609201089761758?s=20)
+
+### Day 96: February 7, Wednesday
+
+🔸 Got some interesting  job related news, will need some time to reflect and choose wisely
+
+🔸 Meanwhile got further into my take home assignment 👨‍💻(https://x.com/beccari_mattia/status/1755337317823213931?s=20)
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1755337317823213931?s=20)
