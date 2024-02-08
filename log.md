@@ -922,3 +922,12 @@ Also Python because it just looks so much better, sorry JS
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1755337317823213931?s=20)
+
+### Day 97: February 8, Thursday
+
+🔸 Under interview under the belt, they should let me know something in 10 days or so
+
+🔸 Worked more on the take home assignment. Here are some of the first steps I took notes about 
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1755697025415348363?s=20)
