@@ -931,3 +931,12 @@ Also Python because it just looks so much better, sorry JS
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1755697025415348363?s=20)
+
+### Day 98: February 9, Friday
+
+🔸 Some exciting news, but let them cook just a little longer before sharing 👨‍🍳
+
+🔸 Another little snippet of what I am working on 🕵️‍♂️
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1756067073942233116?s=20)
