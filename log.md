@@ -940,3 +940,12 @@ Also Python because it just looks so much better, sorry JS
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1756067073942233116?s=20)
+
+### Day 98: February 10, Saturday
+
+🔸 I should have completed step 1 of the exercise, the mandatory one
+
+🔸 Tomorrow will try to refine and add a few of the extra optional parts and I will send it on Monday
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1756437971702558721?s=20)
