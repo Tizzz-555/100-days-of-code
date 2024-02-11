@@ -949,3 +949,12 @@ Also Python because it just looks so much better, sorry JS
 
 **Link(s) to work**
 [Twitter link](https://x.com/beccari_mattia/status/1756437971702558721?s=20)
+
+### Day 9: February 11, Sunday
+
+🔸 Added an API call to OpenAi to summarize / extract keywords from the data
+
+🔸 Needs some refinement but it is a promising start
+
+**Link(s) to work**
+[Twitter link](https://x.com/beccari_mattia/status/1756746059030696283?s=20)
