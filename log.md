@@ -966,4 +966,4 @@ Also Python because it just looks so much better, sorry JS
 🔸 This was a fun ride, I met some cool people and truly been consistent through holidays, a bad flu, a 9-6 job and so on. I will keep posting here, maybe not daily, but #buildinpublic won't stop!
 
 **Link(s) to work**
-[Twitter link](https://x.com/beccari_mattia/status/1756746059030696283?s=20)
+[Twitter link](https://x.com/beccari_mattia/status/1757143929466605952?s=20)
